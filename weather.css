@@ -390,7 +390,7 @@ form {
              gap: 0.4em;
 
                 #city {
-                    font-size: 1rem;
+                    font-size: 2vw;
                 }
 
                 #country {
@@ -447,3 +447,4 @@ form {
     }
 
 }
+
